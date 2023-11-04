@@ -1,3 +1,3 @@
 # storybloc-clone
-![Preview Img](linkedin storybloc.png)
+![Preview Img](preview.png)
 
