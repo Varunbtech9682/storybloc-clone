@@ -1,3 +1,3 @@
-# storybloc-clone
+# storyblok-clone
 ![Preview Img](preview.png)
 
